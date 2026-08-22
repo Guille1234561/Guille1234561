@@ -1,3 +1,4 @@
+
 <h1 align="center">Hola 👋 soy Guille / Guille_Official ✨</h1>
 
 <p align="center">
@@ -34,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,html,css,js&perline=4" alt="Tecnologías"/>
+    <img src="https://skillicons.dev/icons?i=lua,html,css,js&perline=4" alt="Lua HTML CSS JavaScript"/>
   </a>
 </p>
 
@@ -88,24 +89,15 @@
 <h2>📊 GitHub</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Guille1234561&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Guille1234561&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guille1234561&layout=compact&theme=dark&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guille1234561&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Guille1234561&theme=dark&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=Guille1234561&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <br>
@@ -131,7 +123,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/@guille_official">
+  <a href="https://www.youtube.com/@guille_official" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Suscríbete-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
