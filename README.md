@@ -8,23 +8,23 @@
 
 <br>
 
-<h2>Sobre mí 😃</h2>
+<h2>👨‍💻 Sobre mí</h2>
 
 <p align="left">
 
-💻 <strong>INFORMÁTICO / IT</strong>
+💻 <strong>Informático / IT</strong>
 
-🎮 Me apasiona el mundo de <strong>FiveM</strong>, especialmente la creación y desarrollo de scripts.
+🎮 Apasionado por el mundo de <strong>FiveM</strong> y la creación de scripts.
 
-🧩 Desarrollo y modifico <strong>scripts para FiveM</strong>, trabajando principalmente con Lua, JavaScript, HTML y CSS.
+🧩 Desarrollo y modifico <strong>scripts para FiveM</strong> utilizando principalmente Lua, JavaScript, HTML y CSS.
 
 🖥️ Interesado en <strong>sistemas operativos, servidores, hosting y administración de sistemas</strong>.
 
-🚀 Siempre aprendiendo y experimentando con nuevas tecnologías y proyectos relacionados con informática.
+🔧 Me gusta crear, configurar y solucionar problemas relacionados con servidores y sistemas informáticos.
 
-📺 También creo contenido sobre <strong>FiveM, scripting, sistemas operativos y hosting</strong> en YouTube.
+📚 Siempre aprendiendo y experimentando con nuevas tecnologías y proyectos.
 
-📫 YouTube: <a href="https://www.youtube.com/@guille_official">@guille_official</a>
+📺 Creo contenido sobre <strong>FiveM, creación de scripts, sistemas operativos, hosting e informática</strong>.
 
 </p>
 
@@ -32,9 +32,9 @@
 
 <h2>💻 Tecnologías</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,html,css,js&perline=4" />
+    <img src="https://skillicons.dev/icons?i=lua,html,css,js&perline=4" alt="Tecnologías"/>
   </a>
 </p>
 
@@ -46,10 +46,11 @@
 
 🔹 Creación de scripts para FiveM <br>
 🔹 Desarrollo y modificación de recursos <br>
-🔹 Sistemas y funcionalidades para servidores <br>
-🔹 Integración de HTML, CSS y JavaScript <br>
 🔹 Programación en Lua <br>
-🔹 Configuración y mantenimiento de servidores
+🔹 Sistemas y funcionalidades para servidores <br>
+🔹 Interfaces NUI con HTML, CSS y JavaScript <br>
+🔹 Configuración y mantenimiento de servidores <br>
+🔹 Optimización y resolución de problemas
 
 </p>
 
@@ -61,24 +62,25 @@
 
 🖥️ Sistemas operativos <br>
 🌐 Servidores y hosting <br>
-⚙️ Administración y configuración <br>
+⚙️ Configuración y administración <br>
 🔧 Resolución de problemas técnicos <br>
-🚀 Automatización y optimización
+🚀 Optimización y automatización <br>
+💾 Gestión de servicios y servidores
 
 </p>
 
 <br>
 
-<h2>📺 Contenido</h2>
+<h2>📺 Mi contenido</h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/@guille_official">
+  <a href="https://www.youtube.com/@guille_official" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Guille_Official-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Guille Official"/>
   </a>
 </p>
 
 <p align="center">
-  Contenido sobre <strong>FiveM, creación de scripts, sistemas operativos, hosting e informática</strong>.
+  Contenido sobre <strong>FiveM, scripting, sistemas operativos, hosting e informática</strong>.
 </p>
 
 <br>
@@ -86,11 +88,24 @@
 <h2>📊 GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Guille1234561&show_icons=true&theme=dark&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guille1234561&layout=compact&theme=dark&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Guille1234561&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <br>
@@ -102,10 +117,21 @@
 🔨 Trabajando en proyectos relacionados con <strong>FiveM</strong> <br>
 🎮 Creando scripts y sistemas para servidores <br>
 🖥️ Explorando nuevas opciones de hosting y servidores <br>
-📚 Aprendiendo y mejorando mis conocimientos de programación e IT
+📚 Mejorando mis conocimientos de programación e informática <br>
+🚀 Desarrollando nuevos proyectos personales
 
 </p>
 
----
+<br>
 
-<h3 align="center">💻 Informática • FiveM • Scripting • Hosting • IT 🚀</h3>
+<hr>
+
+<h3 align="center">
+  💻 Informática • 🎮 FiveM • 🧩 Scripting • 🌐 Hosting • 🖥️ IT
+</h3>
+
+<p align="center">
+  <a href="https://www.youtube.com/@guille_official">
+    <img src="https://img.shields.io/badge/YouTube-Suscríbete-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
